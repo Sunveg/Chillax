@@ -3,13 +3,12 @@ A python script which scrapes the top 50 movies/series from imdb in the duration
 
 # Usage
 
-First time, install the dependancies as below
+For the first time running, install the dependancies as below
 
 pip install -r requirements.txt
 
 then run the python file
 
 python bored.py
-
 
 and chill :)
