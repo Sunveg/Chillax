@@ -1,6 +1,6 @@
 # Chillax
 A python script which scrapes the top 50 movies/series from imdb in the duration given by user. All at a glance and on your command.
-
+Using BeautifulSoup4
 # Usage
 
 For the first time running, install the dependancies as below
